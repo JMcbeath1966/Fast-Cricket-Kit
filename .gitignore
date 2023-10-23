@@ -1,5 +1,4 @@
 core.Microsoft*
-core.mongo*
 core.python*
 env.py
 __pycache__/
@@ -7,3 +6,4 @@ __pycache__/
 node_modules/
 .github/
 cloudinary_python.txt
+*sqlite3
