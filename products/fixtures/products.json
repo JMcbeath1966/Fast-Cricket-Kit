@@ -1,0 +1,756 @@
+[
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC100",
+    "name": "Upchurch Cricket Club White S\/S shirt",
+    "description": "A modern upgrade on a classic cricket shirt. This lightweight, soft, short sleeve top will allow maximum sporting performance whilst looking smart and professional alongside your teammates.",
+    "price": 23,
+    "category": 1,
+    "rating": 4.9,
+    "image": "UCC-White-Short-Sleeved-Shirt.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC101",
+    "name": "Upchurch Cricket Club White L\/S shirt",
+    "description": "A modern upgrade on a classic Cricket shirt. This Lightweight, soft, long sleeve top will allow maximum sporting performance whilst looking smart and professional alongside your teammates.",
+    "price": 25,
+    "category": 1,
+    "rating": 4.9,
+    "image": "UCC-Long-Sleeved-Shirt.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC102",
+    "name": "Upchurch Cricket Club White Youth S\/S shirt",
+    "description": "A modern upgrade on a classic cricket shirt. This lightweight, soft, short sleeve top will allow maximum sporting performance whilst looking smart and professional alongside your teammates.",
+    "price": 20,
+    "category": 1,
+    "rating": 4.6,
+    "image": "UCC-White-Short-Sleeved-Shirt-Youth.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC103",
+    "name": "Upchurch Cricket Club White Youth L\/S shirt",
+    "description": "A modern upgrade on a classic cricket shirt. This lightweight, soft, long sleeve top will allow maximum sporting performance whilst looking smart and professional alongside your teammates.",
+    "price": 21,
+    "category": 1,
+    "rating": 4.8,
+    "image": "UCC-Long-Sleeved-Shirt-Youth.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC104",
+    "name": "Upchurch Cricket Club Whites Elite Slipover",
+    "description": "A modern upgrade on a classic cricket slip over. This lightweight yet warm, sleeveless top will allow maximum sporting performance whilst looking smart and professional alongside your teammates.With odour-resisting fabric helping the wearer get sweaty without a fuss this tee has been designed to wick moisture and pull the heat away from the skin.",
+    "price": 23,
+    "category": 1,
+    "rating": 4.3,
+    "image": "UCC-Slipover-Vest.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "sku": "UC105",
+    "fields": {
+    "name": "Upchurch Cricket Club Whites Youth Elite Slipover",
+    "description": "A modern upgrade on a classic cricket slip over. This lightweight yet warm, sleeveless top will allow maximum sporting performance whilst looking smart and professional alongside your teammates.",
+    "price": 20,
+    "category": 1,
+    "rating": 4.5,
+    "image": "UCC-Slipover-Vest-Youth.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC106",
+    "name": "Upchurch Cricket Club Whites Elite Sweatshirt",
+    "description": "A modern upgrade on a classic cricket sweatshirt. This lightweight yet warm, full sleeve top will allow maximum sporting performance whilst looking smart and professional alongside your teammates.",
+    "price": 30,
+    "category": 1,
+    "rating": 4.9,
+    "image": "UCC-Sweater.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC107",
+    "name": "Upchurch Cricket Club Youth Whites Elite Sweatshirt",
+    "description": "A modern upgrade on a classic cricket sweatshirt. This lightweight yet warm, youth full sleeve top will allow maximum sporting performance whilst looking smart and professional alongside your teammates.",
+    "price": 24,
+    "category": 1,
+    "rating": 5,
+    "image": "UCC-Sweater-Youth.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC108",
+    "name": "Upchurch Cricket Club Whites Trouser",
+    "description": "A modern upgrade on a classic cricket trouser. This lightweight yet durable youth trouser will allow maximum sporting performance whilst looking smart and professional alongside your teammates.",
+    "price": 23,
+    "category": 1,
+    "rating": 4.4,
+    "image": "UCC-White-Trousers.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC109",
+    "name": "Upchurch Cricket Club Youth Whites Trouser",
+    "description": "A modern upgrade on a classic cricket trouser. This lightweight yet durable youth trouser will allow maximum sporting performance whilst looking smart and professional alongside your teammates.",
+    "price": 19,
+    "category": 1,
+    "rating": 4.4,
+    "image": " UCC-White-Trousers-Youth.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC110",
+    "name": "Upchurch Cricket Club Fortis Vest",
+    "description": "Power on through those high, energy absorbing sessions in this training vest.With odour-resisting fabric helping the wearer get sweaty without a fuss this tee has been designed to wick moisture and pull the heat away from the skin.",
+    "price": 16,
+    "category": 2,
+    "rating": 4.9,
+    "image": "UCC-Vest-Top.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC111",
+    "name": "Upchurch Cricket Club Fortis Tee-Shirt",
+    "description": "Power on through those high, energy absorbing sessions in this youth training t-shirt.With odour-resisting fabric helping the wearer get sweaty without a fuss this tee has been designed to wick moisture and pull the heat away from the skin.",
+    "price": 17,
+    "category": 2,
+    "rating": 4.9,
+    "image": "UCC-Tee-Shirt.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC112",
+    "name": "Upchurch Cricket Club Fortis Youth Tee-Shirt",
+    "description": "Power on through those high, energy absorbing sessions in this training t-shirt.With odour-resisting fabric helping the wearer get sweaty without a fuss this tee has been designed to wick moisture and pull the heat away from the skin.",
+    "price": 14,
+    "category": 2,
+    "rating": 4.6,
+    "image": "UCC-Tee-Shirt-Youth.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC113",
+    "name": "Upchurch Cricket Club Opus Tee-Shirt",
+    "description": "Crafted with a folded collar and 2 button fastening placket, these tops feature short sleeves to give off that classic look.Â The wicking technology keeps the skin cool and comfortable whilst the lightweight construction offers added comfort.\n",
+    "price": 17,
+    "category": 2,
+    "rating": 4.8,
+    "image": "UCC-Opus-Tee-Shirt.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC114",
+    "name": "Upchurch Cricket Club Opus Tee-Shirt Youth",
+    "description": "Crafted with a folded collar and 2 button fastening placket, these tops feature short sleeves to give off that classic look.Â The wicking technology keeps the skin cool and comfortable whilst the lightweight construction offers added comfort.\n",
+    "price": 15,
+    "category": 2,
+    "rating": 4.3,
+    "image": "UCC-Opus-Tee-Shirt-Youth.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC115",
+    "name": "Upchurch Cricket Club Opus Polo Shirt",
+    "description": "Part of our Teamwear collection, the Opus Polo is a 3 colourway on and off field product. Crafted from our CorTec fabric with a fold over collar, 2 button fastening placket and short sleeves that classic look. ",
+    "price": 18,
+    "category": 2,
+    "rating": 4.5,
+    "image": "UCC-Opus-Polo-Shirt.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC116",
+    "name": "Upchurch Cricket Club Fortis Hoodie",
+    "description": "Comfort and warmth are key and this top provides both. Designed with a brushed fleece lining this hoodie is perfect for those colder training and travelling days. Constructed with a drawstring hood and long sleeves this hoodie provides warmth and a classic look. The ribbed trims finish this hoodie off keeping you protected from the elements.",
+    "price": 30,
+    "category": 2,
+    "rating": 4.9,
+    "image": "UCC-Fortis-Hoodie.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC117",
+    "name": "Upchurch Cricket Club Fortis Youth Hoodie",
+    "description": "Comfort and warmth are key and this top provides both. Designed with a brushed fleece lining this hoodie is perfect for those colder training and travelling days. Constructed with a drawstring hood and long sleeves this hoodie provides warmth and a classic look. The ribbed trims finish this hoodie off keeping you protected from the elements.",
+    "price": 26,
+    "category": 2,
+    "rating": 5,
+    "image": "UCC-Fortis-Zip-Youth.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC118",
+    "name": "Upchurch Cricket Club Fortis Quarter Zip Sweatshirt",
+    "description": "Constructed with a drawstring hood and long sleeves this hoodie provides warmth and a classic look. The ribbed trims finish this hoodie off keeping you protected from the elements.It comes with long sleeves with elasticated cuffs for added protection whilst the half zip fastening to the neck provides a comfortable fit.",
+    "price": 30,
+    "category": 2,
+    "rating": 4.4,
+    "image": "UCC-Fortis-Zip.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC119",
+    "name": "Upchurch Cricket Club Fortis Youth Quarter Zip Sweatshirt",
+    "description": "Constructed with a drawstring hood and long sleeves this hoodie provides warmth and a classic look. The ribbed trims finish this hoodie off keeping you protected from the elements.It comes with long sleeves with elasticated cuffs for added protection whilst the half zip fastening to the neck provides a comfortable fit.",
+    "price": 26,
+    "category": 2,
+    "rating": 4.4,
+    "image": "UCC-Fortis-Zip-Youth.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC120",
+    "name": "Upchurch Cricket Club Primus Quarter Zip",
+    "description": "Made from a soft, stretchy and breathable fabric, this multi-use Â½ zip is both functional is use and professional in look. The perfect mid layer for off and on the field. The fabric hugs the body but allows for full, unrestricted movement.",
+    "price": 25,
+    "category": 2,
+    "rating": 4.3,
+    "image": "UCC-Midlayer-Top.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC121",
+    "name": "Upchurch Cricket Club Primus Youth Quarter Zip",
+    "description": "Made from a soft, stretchy and breathable fabric, this multi-use Â½ zip is both functional is use and professional in look. The perfect mid layer for off and on the field. The fabric hugs the body but allows for full, unrestricted movement.",
+    "price": 21,
+    "category": 2,
+    "rating": 4.5,
+    "image": "UCC-Midlayer-Top-Youth.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC122",
+    "name": "Upchurch Cricket Club Fortis Presentation Jacket",
+    "description": "Featuring 2 zipped pockets to the front this jacket means you can keep your hands warm or store away valuables. Coming in a relaxed fit to purposely offer unrestricted movement make sure you stay one step ahead.",
+    "price": 32,
+    "category": 2,
+    "rating": 4.9,
+    "image": "UCC-Fortis-Presentaton-Jacket.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC123",
+    "name": "Upchurch Cricket Club Fortis Youth Presentation Jacket",
+    "description": "Featuring 2 zipped pockets to the front this jacket means you can keep your hands warm or store away valuables. Coming in a relaxed fit to purposely offer unrestricted movement make sure you stay one step ahead.",
+    "price": 27,
+    "category": 2,
+    "rating": 5,
+    "image": "UCC-Fortis-Presentation-Jacket-Youth.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC124",
+    "name": "Upchurch Cricket Club Opus Zoodie",
+    "description": "Constructed from our soft and Warm ThermaLUX fabric. This hoodie features with a full length central zip leading to a high neck and a modern fit hood.",
+    "price": 32,
+    "category": 2,
+    "rating": 4.4,
+    "image": "UCC-Opus-Zoodie-Top.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC125",
+    "name": "Upchurch Cricket Club Opus Zoodie Youth",
+    "description": "Constructed from our soft and Warm ThermaLUX fabric. This hoodie features with a full length central zip leading to a high neck and a modern fit hood.",
+    "price": 27,
+    "category": 2,
+    "rating": 4.4,
+    "image": "UCC-Opus-Zoodie-Top-Youth.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC126",
+    "name": "Upchurch Cricket Club Fortis Full Zip Rain Jacket",
+    "description": "This mesh lined jacket is the perfect item to protect against the wind and rain. The lightweight ripstop shell has been crafted with a water-repellent layer with zip whilst there are zip pockets for storing valuables.",
+    "price": 37,
+    "category": 2,
+    "rating": 4.3,
+    "image": "UCC-Fortis-Zip.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC127",
+    "name": "Upchurch Cricket Club Fortis Youth Full Zip Rain Jacket",
+    "description": "This mesh lined jacket is the perfect item to protect against the wind and rain. The lightweight ripstop shell has been crafted with a water-repellent layer with zip whilst there are zip pockets for storing valuables.",
+    "price": 32,
+    "category": 2,
+    "rating": 4.5,
+    "image": "UCC-Fortis-Zip-Youth.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC128",
+    "name": "Upchurch Cricket Club Ventus Gilet",
+    "description": "The Ventus Gilet is our Spring\/Autumn jacket designed to keep your core insulated when temperatures are slightly warmer. The Ventus gilet is the perfect product to layer alongside our long sleeve tee or hoody to maintain the perfect temperature.",
+    "price": 43,
+    "category": 2,
+    "rating": 4.9,
+    "image": "UCC-Ventus-Gilet.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC129",
+    "name": "Upchurch Cricket Club Tempest Hybrid Jacket",
+    "description": "The Tempest hybrid jacket is our variable weather jacket designed to protect against the elements; keeping you warm and dry.It features quilted chest and back panels to retain heat combined with soft shell sleeves and hood. This makes it breathable and shower proof allowing you to regulate body temperature.",
+    "price": 48,
+    "category": 2,
+    "rating": 5,
+    "image": "UCC-Tempest-Jacket.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC130",
+    "name": "Upchurch Cricket Club Lorica Quilted Jacket",
+    "description": "The Lorica quilted jacket is our cold weather jacket designedÂ  to protect against the elements; keeping you warm and dry.Â Its modern design stitching with insulating fibres allows it to trap heat close to the body to maintain a comfortable temperature in cold conditions. ",
+    "price": 53,
+    "category": 2,
+    "rating": 4.4,
+    "image": "UCC-Lorica-Jacket.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC131",
+    "name": "Upchurch Cricket Club Lorica Quilted Jacket Ladies",
+    "description": "The ladies Lorica quilted jacket is our cold weather jacket designedÂ  to protect against the elements; keeping you warm and dry.Â Its modern design stitching with insulating fibres allows it to trap heat close to the body to maintain a comfortable temperature in cold conditions. ",
+    "price": 53,
+    "category": 3,
+    "rating": 4.4,
+    "image": "UCC-Lorica-Jacket-Ladies.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC132",
+    "name": "Upchurch Cricket Club Lorica Quilted Jacket Youth",
+    "description": "The Lorica quilted jacket is our cold weather jacket designedÂ  to protect against the elements; keeping you warm and dry.Â Its modern design stitching with insulating fibres allows it to trap heat close to the body to maintain a comfortable temperature in cold conditions. ",
+    "price": 41,
+    "category": 2,
+    "rating": 4.5,
+    "image": "UCC-Lorica-Jacket-Youth.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC133",
+    "name": "Upchurch Cricket Club Duro Elite Sports Robe",
+    "description": "For any athlete operating outdoors, The Duro Sports Robe is a must have.From open-water swimmers coming out of the water, to players coming off the pitch, slipping into the Duro Sports Robe is quickest way to get warm and dry.",
+    "price": 113,
+    "category": 2,
+    "rating": 4.9,
+    "image": "UCC-Elite-Robe.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC134",
+    "name": "Upchurch Cricket Club Duro Elite Sports Robe Kids",
+    "description": "For any athlete operating outdoors, The Duro Sports Robe is a must have.From open-water swimmers coming out of the water, to players coming off the pitch, slipping into the Duro Sports Robe is quickest way to get warm and dry.",
+    "price": 93,
+    "category": 2,
+    "rating": 5,
+    "image": "UCC-Elite-Robe-Youth.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC135",
+    "name": "Upchurch Cricket Club Majester Training Short",
+    "description": "Our Coach\/Teacher Specific Short.A day to day practical short that can be used on the training field as well as the classroom. Our breathable, crease resistant ProFIT fabric is smart and functional with zip pockets perfect for keeping your valuables safe.",
+    "price": 18,
+    "category": 3,
+    "rating": 4.4,
+    "image": "UCC-Majester-Shorts.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC136",
+    "name": "Netball Shorties Navy ",
+    "description": "The Shorties are a versatile garment that can be worn under your netball dress, rugby shorts or hockey skirt but are equally useful as a gym and running short.",
+    "price": 15,
+    "category": 3,
+    "rating": 4.4,
+    "image": "UCC-Netball-Shorties.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC137",
+    "name": "Netball Youth Shorties Navy",
+    "description": "The Youth Shorties are a versatile garment that can be worn under your netball dress, rugby shorts or hockey skirt but are equally useful as a gym and running short.",
+    "price": 12.5,
+    "category": 3,
+    "rating": 4.9,
+    "image": "UCC-Netball-Shorties-Youth.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC138",
+    "name": "Upchurch Cricket Club Skort",
+    "description": "The Elite Skort consists of a tight under short with fitted over-skirt made from our technical FreeMAX fabric.",
+    "price": 20,
+    "category": 3,
+    "rating": 4.9,
+    "image": "UCC-Skort.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC139",
+    "name": "Upchurch Cricket Club Girls Skort",
+    "description": "The Elite Skort consists of a tight under short with fitted over-skirt made from our technical FreeMAX fabric.",
+    "price": 17,
+    "category": 3,
+    "rating": 4.6,
+    "image": "UCC-Skort-Girls.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC140",
+    "name": "Upchurch Cricket Club Ludus Gym Shorts",
+    "description": "Our lightweight, breathable ProFIT fabric makes for a comfortable and ultra-functional short. This design is more fitted than the other shorts in our range.",
+    "price": 20,
+    "category": 2,
+    "rating": 4.5,
+    "image": "UCC-Ludus-Shorts.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC141",
+    "name": "Upchurch Cricket Club Ludus Youth Gym Shorts",
+    "description": "Our lightweight, breathable ProFIT fabric makes for a comfortable and ultra-functional short. This design is more fitted than the other shorts in our range.",
+    "price": 17,
+    "category": 2,
+    "rating": 4.9,
+    "image": "UCC-Ludus-Shorts-Youth.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC142",
+    "name": "Upchurch Cricket Club Fortis Travel Shorts",
+    "description": "These breathable shorts will keep the wearer cool and dry as the workout gets harder and higher in intensity. In a regular fit, these shorts are a comfortable balance between loose and snug.Â ",
+    "price": 20,
+    "category": 2,
+    "rating": 5,
+    "image": "UCC-Fortis-Travel-Shorts.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC143",
+    "name": "Upchurch Cricket Club Fortis Youth Travel Shorts",
+    "description": "These breathable shorts will keep the wearer cool and dry as the workout gets harder and higher in intensity. In a regular fit, these shorts are a comfortable balance between loose and snug.Â ",
+    "price": 17,
+    "category": 2,
+    "rating": 4.4,
+    "image": "UCC-Fortis-Travel-Shorts-Youth.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC144",
+    "name": "Upchurch Cricket Club Primus Travel Short",
+    "description": "These breathable shorts will keep the wearer cool and dry as the workout gets harder and higher in intensity. In a regular fit, these shorts are a comfortable balance between loose and snug. They come with 2 pockets and an adjustable elastic drawcord waistband which provides the perfect fit.",
+    "price": 20,
+    "category": 2,
+    "rating": 4.4,
+    "image": "UCC-Primus-Travel-Shorts"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC145",
+    "name": "Upchurch Cricket Club Primus Travel Short Youth",
+    "description": "These breathable shorts will keep the wearer cool and dry as the workout gets harder and higher in intensity. In a regular fit, these shorts are a comfortable balance between loose and snug. They come with 2 pockets and an adjustable elastic drawcord waistband which provides the perfect fit.",
+    "price": 17,
+    "category": 2,
+    "rating": 4.3,
+    "image": "UCC-Primus-Travel-Shorts-Youth.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC146",
+    "name": "Spira Seamless Legging Navy",
+    "description": "TheÂ SpiraÂ Seamless Legging is the ultimate fusion of style and performance. Designed with a stunning herringbone pattern, this legging adds sophistication to your activewear. The seamless construction ensures comfort and freedom of movement, while moisture-wicking fabric keeps you cool and dry.\n\nWith a high-waisted design and four-way stretch, these leggings provide support and a sculpted look. Perfect for the gym, running, or lounging. Experience the ultimate blend of comfort, style, and performance.",
+    "price": 25,
+    "category": 3,
+    "rating": 4.5,
+    "image": "UCC-Navy-Spira-Legging.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC147",
+    "name": "Upchurch Cricket Club Actus Performance Legging",
+    "description": "The Navy Actus leggings provide a form-fitting silhouette and flexibility, with moisture-wicking fabric to keep you dry. They feature a wide waistband and low compression fabric for support and complete comfort.",
+    "price": 24,
+    "category": 3,
+    "rating": 4.9,
+    "image": "UCC-Actus-Legging.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC148",
+    "name": "Upchurch Cricket Club Braca Trackpant",
+    "description": "A modern, tapered fit for the classic track pant. This 2-layer track pant is a must for training and match days.The inner lining is a combination of a soft cotton upper with a silky nylon from the knee down. The outer is our lightweight but durable ProFIT material which helps to retain warmth but allow breathability. ",
+    "price": 30,
+    "category": 3,
+    "rating": 5,
+    "image": "UCC-Braca-Trackpant.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC149",
+    "name": "Upchurch Cricket Club Braca Youth Trackpants",
+    "description": "A modern, tapered fit for the classic track pant. This 2-layer track pant is a must for training and match days.The inner lining is a combination of a soft cotton upper with a silky nylon from the knee down. The outer is our lightweight but durable ProFIT material which helps to retain warmth but allow breathability. ",
+    "price": 25,
+    "category": 3,
+    "rating": 4.4,
+    "image": "UCC-Braca-Trackpant-Youth.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC150",
+    "name": "Upchurch Cricket Club Primus Skinny Pants",
+    "description": "These primus skinny sweat pants come made from a soft polyester. With two zip secured pockets for storing valuables and zips running up from the cuffs for additional comfort, these pants have a soft lining ensuring there's no irritation on the skin.",
+    "price": 23,
+    "category": 3,
+    "rating": 4.6,
+    "image": "UCC-Skinny-Pants"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC151",
+    "name": "Upchurch Cricket Club Primus Youth Skinny Pants",
+    "description": "These primus skinny sweat pants come made from a soft polyester. With two zip secured pockets for storing valuables and zips running up from the cuffs for additional comfort, these pants have a soft lining ensuring there's no irritation on the skin.",
+    "price": 19,
+    "category": 3,
+    "rating": 4.5,
+    "image": "UCC-Skinny-Pants-Youth.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC152",
+    "name": "Upchurch Cricket Club Classic Cap",
+    "description": "This trucker cap has a six-panel design with 4 cooling mesh panels and a curved visor that keeps the sun from your eyes.",
+    "price": 13,
+    "category": 5,
+    "rating": 4.9,
+    "image": "UCC-Classic-Cap.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC153",
+    "name": "Upchurch Cricket Club Trucker Cap",
+    "description": "Our classic cap also benefits from an elasticated brim to improved the comfort and fit of the cap as well as the standard snapback closure.",
+    "price": 13,
+    "category": 5,
+    "rating": 5,
+    "image": "UCC-Trucker-Cap.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC154",
+    "name": "Upchurch Cricket Club Performance Boot Bag",
+    "description": "This Boot Bag has a large, zipped compartment for storage of either Trainers or Boots up to an adult size 12. Extra space in this compartment is perfect to also store your wallet, phone, keys or even a spare t-shirt.Â A tough abrasion-resistant material protects the bag from damage when rested on the ground.",
+    "price": 9,
+    "category": 4,
+    "rating": 4.4,
+    "image": "UCC-Backpack.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC155",
+    "name": "Upchurch Cricket Club Performance Backpack",
+    "description": "This rucksack includes several zip fastened compartments for storage including a smaller front pocket, large front pocket and the main compartment. A water bottle may also be stored in the side mesh pocket. A tough abrasion-resistant bottom panel protects the bag from damage when rested on the ground.",
+    "price": 18,
+    "category": 4,
+    "rating": 4,
+    "image": "UCC-Backpack.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC156",
+    "name": "Upchurch Cricket Club Elite Backpack",
+    "description": "The Elite Backpack is extremely versatile with outstanding carrying comfort and intelligent pocket system. Made from 100% polyester material, VX3 element proof technology ensures the fabric is water resistant so you can keep the contents inside dry. Store and transport your essentials in confidence with the VX3 Elite Backpack, essential for any active person.",
+    "price": 23,
+    "category": 4,
+    "rating": 4.3,
+    "image": "UCC-Elite-Backpack.png"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+    "sku": "UC157",
+    "name": "Upchurch Cricket Club Performance Kit Bag",
+    "description": "This performance kit bag has been made with durable and weather-resistant fabric which deflects water and dirt keeping the bag and contents well protected all year round. The padded shoulder strap offers versatile carrying options, so when the arms get tired, it's easy to sling the bag over your shoulder.",
+    "price": 24,
+    "category": 4,
+    "rating": 4.1,
+    "image": "UCC-Kitbag.png"
+    }
+  }
+]
