@@ -67,8 +67,8 @@
   {
     "pk": 6,
     "model": "products.product",
-    "sku": "UC105",
     "fields": {
+    "sku": "UC105",
     "name": "Upchurch Cricket Club Whites Youth Elite Slipover",
     "description": "A modern upgrade on a classic cricket slip over. This lightweight yet warm, sleeveless top will allow maximum sporting performance whilst looking smart and professional alongside your teammates.",
     "price": 20,
